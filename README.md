@@ -1,5 +1,16 @@
-# 💫 About Me:
-# Hi there! 👋<br><br>Welcome to my code corner. I'm passionate about anaything that is **AI, Autonomous Agents, Finance, and Sports**—and ideally, projects that combine them all.<br><br>### 🔭 What I'm doing right now<br>I'm currently focused on understanding and learning the different technical domains to build full-stack applications. I do share interest in figuring out how complex systems fit together.<br><br>### ⚡ Side quests<br>If I'm not online building agents or analyzing data, I'm probably:<br>* 📖 Reading fiction<br>* 🏀 Playing basketball
+### Hi there! 👋
+
+Welcome to my code corner. I explore the intersection of **AI**, **Autonomous Agents**, **Finance**, and **Sports**—and ideally, projects that combine them all.
+
+---
+
+**🔭 What I'm doing right now**
+I'm currently focused on merging different technical domains to build robust full-stack applications. I enjoy figuring out how complex systems and agents fit together.
+
+**⚡ Side quests**
+When I'm not online building agents or analyzing data, I'm usually:
+* 📖 Reading fiction
+* 🏀 Playing basketball
 
 
 ## 🌐 Socials:
@@ -15,7 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vini-ai2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Something I follow
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
