@@ -21,8 +21,6 @@ When I'm not online building agents or analyzing data, I'm usually:
 ![](https://nirzak-streak-stats.vercel.app/?user=vini-ai2&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ai2&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vini-ai2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### Something I follow
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
