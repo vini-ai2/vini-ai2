@@ -1,16 +1,12 @@
-### Hi there! 👋
-
-Welcome to my code corner. Right now, these are a few things I a looking to perfect **AI**, **Autonomous Agents**, **Finance**, and **Sports**—and ideally, projects that combine them all.
-
----
+### atypical 
 
 **🔭 What I'm doing right now**
 I'm currently focused on merging different technical domains to build robust full-stack applications. I enjoy figuring out how complex systems and agents fit together.
 
 **⚡ Side quests**
 When I'm not online building agents or analyzing data, I'm usually:
-* 📖 Reading fiction
-* 🏀 Playing basketball
+* drowning in the world of fiction
+* beating up people in basketball
 
 
 <!--
@@ -33,4 +29,4 @@ When I'm not online building agents or analyzing data, I'm usually:
 ---
 [![](https://visitcount.itsvg.in/api?id=vini-ai2&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
