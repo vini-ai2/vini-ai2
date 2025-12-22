@@ -1,9 +1,9 @@
 ### atypical 
 
-**🔭 What I'm doing right now**
+**🔭 What I'm doing right now**<br/>
 I'm currently focused on merging different technical domains to build robust full-stack applications. I enjoy figuring out how complex systems and agents fit together.
 
-**⚡ Side quests**
+**⚡ Side quests**<br/>
 When I'm not online building agents or analyzing data, I'm usually:
 * drowning in the world of fiction
 * beating up people in basketball
