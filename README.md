@@ -6,7 +6,7 @@ I'm currently focused on merging different technical domains to build robust ful
 **⚡ Side quests**<br/>
 When I'm not online building agents or analyzing data, I'm usually:
 * drowning in the world of fiction
-* beating up people in basketball
+* playing basketball
 
 
 <!--
