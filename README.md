@@ -11,4 +11,4 @@ But all that apart, here's what I have been working on recently:
 
 Graph Theory     Robotics     Systems     Applied ML     Econometrics     Quant
 
-[vini-ai2.github.io]([https://vini-ai2.github.io/])
+[vini-ai2.github.io](https://vini-ai2.github.io/)
