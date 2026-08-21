@@ -8,6 +8,7 @@ I'm an avid reader, and the crowd believes I have over 115 weeks' streak on Kind
 When all the parameters are either too symmetrical or completely off, I love to play basketball.
 
 But all that apart, here's what I have been working on recently:
+
 Graph Theory     Robotics     Systems     Applied ML     Econometrics     Quant
 
-[vini-ai2.github.io]([url](https://vini-ai2.github.io/))
+[vini-ai2.github.io]([https://vini-ai2.github.io/])
