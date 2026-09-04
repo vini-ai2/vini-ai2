@@ -7,6 +7,8 @@ Here's something I follow: "The World has a multitude of perspectives, and it's 
 I'm an avid reader, and the crowd believes I have over 115 weeks' streak on Kindle. 
 When all the parameters are either too symmetrical or completely off, I love to play basketball.
 
+As a [wise mind](https://github.com/satvika1234) said: "Let's be good average scorers, but with a curious mind" 
+
 But all that apart, here's what I have been working on recently:
 
 Graph Theory     Robotics     Systems     Applied ML     Econometrics     Quant
